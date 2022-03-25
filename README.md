@@ -12,6 +12,7 @@ Script to fetch financial data from yahoo finance
 - clone repo using `git clone https://github.com/alahirajeffrey/fetch-financial-data.git`
 - navigate to the project directory and install requirements using `pip install -r requirements`
 - open terminal and run using `python script.py` 
+- use the %Y-%m-%d format when inputing the start and end dates
 
 ## Author
 * [Alahira Jeffrey](https://github.com/alahirajeffrey)
