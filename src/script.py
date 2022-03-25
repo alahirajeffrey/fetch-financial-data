@@ -7,8 +7,6 @@ START = input("Enter start date : ")
 END = input("Enter end date : ")
 
 # function to fetch data
-
-
 def fetch_data(ticker, start, end):
     data = yf.download(ticker, start=start, end=end)
 
